@@ -8,7 +8,7 @@
 	<body>
 		<header>
 			<?php include "assets/php/header.php" ?>
-			<h1 id="page_title" class="page_title">HOMEPAGE</h1>
+			<h1 id="page_title_photo" class="page_title">PHOTOFOLIO</h1>
 		</header>
 		<main>
 
@@ -16,7 +16,7 @@
 				<p></p>
 			</section>
 		</main>
-		<footer id="footer_index">
+		<footer id="footer_photo">
 			<?php include "assets/php/footer.php" ?>
 		</footer>
 			<?php include "assets/php/script.php" ?>

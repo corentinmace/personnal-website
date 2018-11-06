@@ -1,3 +1,3 @@
-<script src="../script/aos.js"></script>
-<script src="../script/jquery.js"></script>
-<script type="text/javascript" src="../script/smooth.js"></script>
+<script src="assets/script/aos.js"></script>
+<script src="assets/script/jquery.js"></script>
+<script type="text/javascript" src="assets/script/smooth.js"></script>
